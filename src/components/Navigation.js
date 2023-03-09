@@ -7,7 +7,7 @@ export default function Navigation({ currentPage, handlePageChange }) {
                 <a href='#about'
                     oncClick={() => handlePageChange('About')}
                     className={currentPage === 'About' ? 'nav-link active' : 'nav-link'}>
-                    About Me</a>
+                    About</a>
             </li>
             <li className="nav-item">
                 <a href='#portfolio'
