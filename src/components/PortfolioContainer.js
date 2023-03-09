@@ -6,7 +6,7 @@ import Portfolio from './pages/Portfolio';
 import Resume from './pages/Resume';
 
 export default function PortfolioContainer() {
-    const [currentPage, setCurrentPage] = useState('About');
+    const [currentPage, setCurrentPage] = useState('false');
 
     const renderPage = () => {
         if (currentPage === 'About') {
