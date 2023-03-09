@@ -1,7 +1,13 @@
 {
   "dependencies": {
     "bootstrap": "^5.2.3",
-    "react": "^17.0.2",
+    "react": "^18.2.0",
     "react-bootstrap": "^2.7.2"
-  }
+  },
+  "homepage": "https://AliBailoun.github.io/Ali-Portfolio",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  },
+  "predeploy": "npm run build",
+   "deploy": "gh-pages -d build"
 }
