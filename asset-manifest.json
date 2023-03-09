@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ali-Portfolio/static/css/main.c2cab247.css",
+    "main.js": "/Ali-Portfolio/static/js/main.e6340ad0.js",
+    "index.html": "/Ali-Portfolio/index.html",
+    "main.c2cab247.css.map": "/Ali-Portfolio/static/css/main.c2cab247.css.map",
+    "main.e6340ad0.js.map": "/Ali-Portfolio/static/js/main.e6340ad0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.e6340ad0.js"
+  ]
+}
