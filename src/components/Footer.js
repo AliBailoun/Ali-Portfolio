@@ -1,7 +1,7 @@
 import React from "react";
 
 // Import CSS
-import "./Footer.css";
+import "../components/css/Footer.css";
 
 // Import Font Awesome Icons
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -19,16 +19,11 @@ export default function Footer() {
           <a href="https://github.com/AliBailoun" title="GitHub">
             <FontAwesomeIcon className="font-awesome" icon={faGithub} />
           </a>
-          <a
-            href="https://www.linkedin.com/in/ali-bailoun-6a6670246/"
-            title="LinkedIn"
-          >
+          <a href="https://www.linkedin.com/in/ali-bailoun-6a6670246/" title="LinkedIn">
             <FontAwesomeIcon className="font-awesome" icon={faLinkedin} />
           </a>
           <a
-            href="https://www.instagram.com/ali_bailoun/"
-            title="Instagram"
-          >
+            href="https://www.instagram.com/ali_bailoun/" title="Instagram">
             <FontAwesomeIcon className="font-awesome" icon={faInstagram} />
           </a>
         </div>

@@ -18,7 +18,7 @@ export default function Card(props) {
             />
           </div>
           <div className="card-body d-flex flex-column justify-content-between">
-            <h6 className="card-title h4 text-center shadow-sm rounded bg-dark color-w">{item.title}</h6>
+            <h6 className="card-title h4 text-center shadow-sm rounded color-w">{item.title}</h6>
             <p className="card-text text-center ">{item.description}</p>
             <div className="d-flex justify-content-between ">
               <a href={item.repoLink} className="btn btn-light shadow">
