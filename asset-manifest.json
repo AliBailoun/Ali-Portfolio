@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Ali-Portfolio/static/css/main.a86e1897.css",
+    "main.css": "/Ali-Portfolio/static/css/main.098574ea.css",
     "main.js": "/Ali-Portfolio/static/js/main.3e63d176.js",
     "index.html": "/Ali-Portfolio/index.html",
-    "main.a86e1897.css.map": "/Ali-Portfolio/static/css/main.a86e1897.css.map",
+    "main.098574ea.css.map": "/Ali-Portfolio/static/css/main.098574ea.css.map",
     "main.3e63d176.js.map": "/Ali-Portfolio/static/js/main.3e63d176.js.map"
   },
   "entrypoints": [
-    "static/css/main.a86e1897.css",
+    "static/css/main.098574ea.css",
     "static/js/main.3e63d176.js"
   ]
 }
