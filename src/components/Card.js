@@ -7,7 +7,7 @@ export default function Card(props) {
   };
 
   return (
-    <div className='d-flex flex-wrap '>
+    <div className='d-flex flex-wrap justify-content-center'>
       {props.modules.map(item => (
         <div className="card m-3 bg-light p-2 shadow-sm" key={item.id} style={cardStyle}>
           <div className="bg-image">

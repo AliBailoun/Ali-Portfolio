@@ -55,8 +55,8 @@ export default function Display() {
     return (
         <div>
             <div >
-                <h1 style={{ alignitems: 'center'}}>Projects</h1>
-                <Card modules={modules} />
+                <h1 className='d-flex justify-content-center' style={{ alignitems: 'center' }}>Projects</h1>
+                <Card className='d-flex justify-content-center' modules={modules} />
             </div>
         </div>
     )
