@@ -1,11 +1,6 @@
 import React from 'react';
 import "../css/About.css";
 import Header from "../Header";
-import backgroundImage from "../css/image.jpg"
-
-const backgroundStyles = {
-    backgroundImage: `url(${backgroundImage})`
-};
 
 
 export default function About() {
@@ -18,9 +13,6 @@ export default function About() {
                     🅶🅾🅾🅳 🅴🆅🅴🅽🅸🅽🅶, 🅼🆈 🅽🅰🅼🅴 🅸🆂 🅰🅻🅸 🅱🅰🅸🅻🅾🆄🅽. 🅸 🅰🅼 🅰 🆂🆃🆄🅳🅴🅽🆃 🅵🆁🅾🅼 🅱🅴🅸🆁🆄🆃, 🅻🅴🅱🅰🅽🅾🅽.  🅸'🆅🅴 🅰🅻🆆🅰🆈🆂 🅱🅴🅴🅽 🅲🆄🆁🅸🅾🆄🆂 🅰🅱🅾🆄🆃 🅰 🅻🅾🆃 🅾🅵 🆃🅷🅸🅽🅶🆂 🅰🅽🅳 🅸 🅱🅰🆂🅸🅲🅰🅻🅻🆈 🅻🅸🆅🅴 🅱🆈 🆃🅷🅴 🆀🆄🅾🆃🅴 "🆃🅷🅴 🅼🅾🆁🅴 🆈🅾🆄 🅵🆄🅲🅺 🅰🆁🅾🆄🅽🅳, 🆃🅷🅴 🅼🅾🆁🅴 🆈🅾🆄 🅵🅸🅽🅳 🅾🆄🆃".
                     🆃🅷🅸🆂 🅷🅴🅻🅿🅴🅳 🅼🅴 🅳🅸🆂🅲🅾🆅🅴🆁 🅼🆈 🅻🅾🆅🅴 🅵🅾🆁 🆃🅴🅲🅷🅽🅾🅻🅾🅶🆈 🅰🅽🅳 🅼🆈 🅲🅾🅽🆂🆃🅰🅽🆃 🅰🆃🆃🅴🅼🅿🆃🆂 🅰🆃 🆄🅽🆅🅴🅸🅻🅸🅽🅶 🆆🅷🅰🆃 🅾🆄🆁 🅿🅷🅾🅽🅴🆂 🅰🅽🅳 🅻🅰🅿🆃🅾🅿🆂 🅲🅰🅽 🅰🅲🆃🆄🅰🅻🅻🆈 🅳🅾. 🅰🅻🅻 🆃🅷🅸🆂 🅻🅴🅳 🆃🅾 🅼🅴 🅷🅰🆅🅸🅽🅶 🆀🆄🅸🆃🅴 🅰🅽 🅰🅼🅰🆉🅸🅽🅶 🅴🆇🅿🅴🆁🅸🅴🅽🅲🅴 🅰🆃 🆃🅷🅴 🅲🅾🅻🆄🅼🅱🅸🅰 🆄🅽🅸🆅🅴🆁🆂🅸🆃🆈 🅲🅾🅳🅸🅽🅶 🅱🅾🅾🆃🅲🅰🅼🅿, 🆆🅷🅸🅲🅷 🅾🅽🅻🆈 🅼🅰🅳🅴 🅼🆈 🅲🆄🆁🅸🅾🆂🅸🆃🆈, 🅰🅽🅳 🅼🅴 "🅵🅸🅽🅳🅸🅽🅶 🅾🆄🆃", 🅶🆁🅾🆆 🅻🅰🆁🅶🅴🆁.
                 </p>
-                <div className='porfilePic' style={backgroundStyles}>
-
-                </div>
             </div>
         </div>
     )
