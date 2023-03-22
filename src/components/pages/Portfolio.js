@@ -10,11 +10,11 @@ const modules = [{
     id: 1
 },
 {
-    title: 'Employee Tracker',
-    description: "Welcome to a professional employee tracking application that uses inquirer.js to interact with a use via the command line, MySQL2 in order to retrieve and recieve information from the database and console.table to print MySQL rows into the console.",
-    depLink: "https://youtu.be/YhDkbBGGyJU",
-    repoLink: "https://github.com/AliBailoun/Employee-Tracker",
-    image: "https://images.techhive.com/images/article/2015/10/piazza_diversity_hiring-100618555-large.jpg?auto=webp&quality=85,70",
+    title: 'Epic Dueler',
+    description: "Introducing Epic Dueler, the place where epic luck meets legendary duels! A game developed by the gifted and bored minds of the Columbia Coding Bootcamp cohort.",
+    depLink: "https://blooming-gorge-61299.herokuapp.com/",
+    repoLink: "https://github.com/AliBailoun/epic_dueler-Ali",
+    image: "https://www.dicegeeks.com/wp-content/uploads/2014/07/cropped-file0002998516961.jpg",
     id: 2
 },
 {
@@ -42,11 +42,11 @@ const modules = [{
     id: 5
 },
 {
-    title: 'Workday Scheduler',
-    description: "With this website you no longer have an excuse for not having enough time to do something! It'll help you organize your day through all its hours (starting with business hours).",
-    depLink: "https://alibailoun.github.io/Work-Day-Scheduler/",
-    repoLink: "https://github.com/AliBailoun/Work-Day-Scheduler",
-    image: "https://www.pngitem.com/pimgs/m/111-1111126_homepage-icons-meeting-scheduler-schedule-a-call-button.png",
+    title: 'Employee Tracker',
+    description: "Welcome to a professional employee tracking application that uses inquirer.js to interact with a use via the command line, MySQL2 in order to retrieve and recieve information from the database and console.table to print MySQL rows into the console.",
+    depLink: "https://youtu.be/YhDkbBGGyJU",
+    repoLink: "https://github.com/AliBailoun/Employee-Tracker",
+    image: "https://images.techhive.com/images/article/2015/10/piazza_diversity_hiring-100618555-large.jpg?auto=webp&quality=85,70",
     id: 6
 }]
 
